@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aarav!
+- 👋 Hi, I’m Aarav Bamba
 - 👀 I’m interested in learning to code in Python and Java
 - 🌱 I’m currently studying BTech in Information Technology
 - 💞️ I’m looking for feedback and suggestions
