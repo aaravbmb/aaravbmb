@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @aaravbmb
+- 👋 Hi, I’m Aarav!
 - 👀 I’m interested in learning to code in Python and Java
-- 🌱 I’m currently studying B.Tech in Computer Science and Engineering
+- 🌱 I’m currently studying BTech in Information Technology
 - 💞️ I’m looking for feedback and suggestions
 - 📫 How to reach me: www.linkedin.com/in/aaravbamba
 
