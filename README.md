@@ -1,5 +1,5 @@
-## Hello, I'm Aarav Bamba 👋
-I am a student at [Dr. Akhilesh Das Gupta Institute of Technology](https://adgitmdelhi.ac.in){:target="_blank"} currently pursuing **B.Tech in Information Technology**.I have a keen interested for **Front-End Web Development** (UI/UX focused), **Cloud Computing** and **Machine Learning**.
+## Hello, I'm [Aarav Bamba](https://aaravbmb.github.io/portfolio/) 👋
+I am a student at [Dr. Akhilesh Das Gupta Institute of Technology](https://adgitmdelhi.ac.in) currently pursuing **B.Tech in Information Technology**.I have a keen interested for **Front-End Web Development** (UI/UX focused), **Cloud Computing** and **Machine Learning**.
 - 👀 I’m interested in learning to code in Python and Java
 - 🌱 I’m currently studying BTech in Information Technology
 - 💞️ I’m looking for feedback and suggestions
