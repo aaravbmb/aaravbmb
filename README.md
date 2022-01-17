@@ -1,4 +1,4 @@
-## Hello, I'm Aarav Bamba :+1F44B:
+## Hello, I'm Aarav Bamba 👋
 
 - 👋 Hi, I’m Aarav Bamba
 - 👀 I’m interested in learning to code in Python and Java
