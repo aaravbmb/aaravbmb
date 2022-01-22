@@ -9,15 +9,17 @@ I am a student at [Dr. Akhilesh Das Gupta Institute of Technology](https://adgit
 
 ## Connect with me! 👨‍💻
 <p align="left">
-<a target="_blank" href="https://www.linkedin.com/in/aaravbamba/" style="text-decoration:none">
+<a href="https://www.linkedin.com/in/aaravbamba/" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/aaravbmb" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/Github-grey.svg?&style=for-the-badge&logo=Github&logoColor=white" />
 </a>
-
 <a href="https://aaravbmb.github.io/portfolio/" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/Portfolio-black.svg?&style=for-the-badge" />
+</a>
+ <a href="https://www.hackerrank.com/aaravbamba" style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/HackerRank-darkgreen.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
 </p>
 
