@@ -9,7 +9,7 @@ I am a student at [Dr. Akhilesh Das Gupta Institute of Technology](https://adgit
 
 ## Connect with me! 👨‍💻
 <p align="left">
-<a href="https://www.linkedin.com/in/aaravbamba/" style="text-decoration:none">
+<a target="_blank" href="https://www.linkedin.com/in/aaravbamba/" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/aaravbmb" style="text-decoration:none">
