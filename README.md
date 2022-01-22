@@ -7,6 +7,8 @@ I am a student at [Dr. Akhilesh Das Gupta Institute of Technology](https://adgit
 - [ ] Publish a multi-page dynamic website on GitHub Pages.
 - [x] Have the mellowest day and relax yourself.
 
+<hr>
+
 <!---
 aaravbmb/aaravbmb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
