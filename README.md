@@ -7,7 +7,19 @@ I am a student at [Dr. Akhilesh Das Gupta Institute of Technology](https://adgit
 - [ ] Publish a multi-page dynamic website on GitHub Pages.
 - [x] Have the mellowest day and relax yourself.
 
-<hr>
+## Connect with me! 👨‍💻
+<p align="left">
+<a href="https://www.linkedin.com/in/aaravbamba/" style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/aaravbmb" style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/Github-grey.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+
+<a href="https://dev.to/devrajdc" style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/Dev.to-black.svg?&style=for-the-badge&logo=Dev.to&logoColor=white" />
+</a>
+</p>
 
 <!---
 aaravbmb/aaravbmb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
